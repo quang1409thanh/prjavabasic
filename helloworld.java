@@ -9,4 +9,4 @@ public class helloworld {
         String s="Please write some text:";
         System.out.println(s);
     }
-}g
+}
